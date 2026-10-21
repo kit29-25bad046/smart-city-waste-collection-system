@@ -1,0 +1,9 @@
+bin_id,area,latitude,longitude,fill_level,capacity_kg,priority,status
+BIN001,Gandhipuram,11.0183,76.9680,85,100,High,Collected
+BIN002,Peelamedu,11.0240,77.0010,45,100,Medium,Pending
+BIN003,Singanallur,11.0000,77.0320,95,120,High,Pending
+BIN004,Gandhipuram,11.0200,76.9700,30,100,Low,Pending
+BIN005,Peelamedu,11.0280,77.0050,75,110,High,Pending
+BIN006,Singanallur,10.9980,77.0350,60,120,Medium,Collected
+BIN007,Gandhipuram,11.0160,76.9650,92,100,High,Collected
+BIN008,Peelamedu,11.0300,77.0020,20,100,Low,Collected
